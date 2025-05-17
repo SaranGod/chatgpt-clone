@@ -1,0 +1,5 @@
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad/
+.build/
+*/Package.resolved
