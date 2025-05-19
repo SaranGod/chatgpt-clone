@@ -64,6 +64,10 @@ Install via **Swift Package Manager**:
 - **VoiceModeView** provides animated listening/speaking feedback.
 - Minimal design, tailored for conversational flow.
 
+## Demo
+
+[Video](https://github.com/user-attachments/assets/467f2eb6-2398-442b-a472-02f144a7587e)
+
 ## 👨‍💻 Author
 
 Built by Saran Goda, 2025  
